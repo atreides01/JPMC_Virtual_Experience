@@ -9,7 +9,7 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Git`
 - `Basic Programming`
 
-#### 2. Use JPMorgan Chase frameworks and tools 
+#### 2. Used JPMorgan Chase frameworks and tools 
 - Implement the perspective open source code in prepration for data visualization 
 - `React js` 
 - `TypeScript`
